@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SalesforceSyncJobs.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SalesforceSyncJobs_wsSalesforce_SforceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://login.salesforce.com/services/Soap/c/33.0/0DFG0000000D2Mj</Value>
+    </Setting>
+    <Setting Name="SalesforceSyncJobs_wsSalesforceAPEX_SObjectServiceService" Type="(Web Service URL)" Scope="Application">
+      <Value Profile="(Default)">https://na11.salesforce.com/services/Soap/class/SObjectService</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

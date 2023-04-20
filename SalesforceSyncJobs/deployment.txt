@@ -1,0 +1,8 @@
+﻿Production location
+
+Server: mnet-prd-021-01
+Directory: E:\utilities\SalesforceSyncJob
+SVN: https://sos-021-01:8443/svn/appdev/Salesforce/MMToSalesforceSyncJobs/trunk/SalesforceSyncJobs
+Task Scheduler Name: SalesforceSync
+
+* Make sure the user running the service has full access toSalesforceSyncJobs.exe.config

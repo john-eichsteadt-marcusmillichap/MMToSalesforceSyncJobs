@@ -1,0 +1,12 @@
+C:\development\dev\SalesforceSyncJobs\SalesforceSyncJobs\bin\Debug\SalesforceSyncJobs.exe.config
+C:\development\dev\SalesforceSyncJobs\SalesforceSyncJobs\bin\Debug\SalesforceSyncJobs.exe
+C:\development\dev\SalesforceSyncJobs\SalesforceSyncJobs\bin\Debug\SalesforceSyncJobs.pdb
+C:\development\dev\SalesforceSyncJobs\SalesforceSyncJobs\obj\Debug\SalesforceSyncJobs.csprojResolveAssemblyReference.cache
+C:\development\dev\SalesforceSyncJobs\SalesforceSyncJobs\obj\Debug\SalesforceSyncJobs.exe
+C:\development\dev\SalesforceSyncJobs\SalesforceSyncJobs\obj\Debug\SalesforceSyncJobs.pdb
+C:\development\release\MMToSalesforceSyncJobs\SalesforceSyncJobs\bin\Debug\SalesforceSyncJobs.exe.config
+C:\development\release\MMToSalesforceSyncJobs\SalesforceSyncJobs\obj\Debug\SalesforceSyncJobs.exe
+C:\development\release\MMToSalesforceSyncJobs\SalesforceSyncJobs\obj\Debug\SalesforceSyncJobs.pdb
+C:\development\release\MMToSalesforceSyncJobs\SalesforceSyncJobs\bin\Debug\SalesforceSyncJobs.exe
+C:\development\release\MMToSalesforceSyncJobs\SalesforceSyncJobs\bin\Debug\SalesforceSyncJobs.pdb
+C:\development\release\MMToSalesforceSyncJobs\SalesforceSyncJobs\obj\Debug\SalesforceSyncJobs.csprojResolveAssemblyReference.cache
